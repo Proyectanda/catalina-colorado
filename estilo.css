@@ -51,17 +51,17 @@ footer{background:#18171b;color:#fdfdfd;padding:34px 0 38px;border-top:4px solid
 
 @font-face {
     font-family: "Playfair Display";
-    src: url("/fonts/playfair-display.ttf") format("truetype");
+    src: url("fonts/playfair-display.ttf") format("truetype");
     font-display: swap;
 }
 @font-face {
     font-family: "Droid Serif";
-    src: url("/fonts/droid-serif.ttf") format("truetype");
+    src: url("fonts/droid-serif.ttf") format("truetype");
     font-display: swap;
 }
 @font-face {
     font-family: "Visual Composer Starter Font";
-    src: url("/fonts/menu-icons.woff2") format("woff2");
+    src: url("fonts/menu-icons.woff2") format("woff2");
 }
 .cabecera { position: relative; z-index: 1; background: #fff; border-bottom: 1px solid #ddd; }
 .cabecera::before {
